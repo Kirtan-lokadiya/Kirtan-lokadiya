@@ -60,7 +60,7 @@
 ## 📫 Connect With Me:
 [![Email](https://img.shields.io/badge/Email-kirtanlokadiya998%40gmail.com-red)](mailto:kirtanlokadiya998@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KirtanLokadiya-blue)](https://www.linkedin.com/in/kirtanlokadiya)  
-[![GitHub](https://img.shields.io/badge/GitHub-Kirtan--lokadiya-black)](https://github.com/Kirtan-lokadiya)
+[![GitHub](https://img.shields.io/badge/GitHub-Kirtan--lokadiya-black)](https://chatgpt.com/)
 
 ---
 
