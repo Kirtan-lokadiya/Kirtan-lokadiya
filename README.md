@@ -111,7 +111,17 @@
 - Integrated **Hive local database**, **contact management**, **transaction categorization**, and **offline-first architecture** for seamless performance.  
 - Designed a **responsive UI/UX** with Material Design, **dark/light theme**, and an interactive dashboard featuring **balance visualization** and **quick actions**.  
 - Secured with **local data persistence**, **transaction history filtering**, and deployed as **Android/iOS native builds** using **Flutter SDK 3.29.2+**.  
-- Successfully built an **IPA file for iOS** and tested the app on a real **iPhone device**, ensuring production readiness for client delivery.  
+- Successfully built an **IPA file for iOS** and tested the app on a real **iPhone device**, ensuring production readiness for client delivery.
+
+### 🔹 **3D Avatar App – Ready Player Me Integration**
+- Built a cross-platform **Flutter** application for creating 3D avatars, running on **Android, iOS, Web, Windows, and Linux**.  
+- Integrated the **Ready Player Me API** for real-time avatar generation from user photos with gender-based customization and template selection.  
+- Implemented multi-source image capture using **camera access**, **gallery picker**, and **web camera integration** with robust permission handling.  
+- Added an interactive 3D avatar viewer using **Flutter 3D Controller** with touch gestures, animations, and real-time model rendering.  
+- Designed an asset management system enabling equipment attachments, avatar customization, and dynamic **GLB file loading** with cross-platform file handling.  
+- Secured with **API key authentication**, anonymous user creation, token-based sessions, and **local data caching** via SharedPreferences.  
+- Delivered platform-specific builds with **responsive UI** and robust **error handling**, ensuring seamless user experience across all supported devices.  
+ 
  
   
 
