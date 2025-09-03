@@ -66,6 +66,13 @@
 - Implemented **SSO (Single Sign-On)** and strong **input validation**.  
 - Containerized with **Docker** and set up **CI/CD pipelines using Jenkins**.  
 - Live Demo: [RouteOptima](https://routeoptima.onrender.com)  
+
+### 🔹 **VSS – Visual Social System**
+- Built a professional networking platform using **Next.js**, **React**, and **Tailwind CSS** with modern UI/UX.  
+- Implemented **real-time messaging**, **interactive whiteboard collaboration**, and **fundraising campaigns**.  
+- Added **JWT-based authentication**, **email verification**, and **encrypted notes system** with offline access.  
+- Designed **network visualization graphs**, **private search**, and **profile management** with education/work history.  
+- Secured with **input validation**, **JWT token validation**, and deployed with **Docker** & **environment-based configs**.  
   
 
 ---
