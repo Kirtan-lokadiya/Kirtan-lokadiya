@@ -132,7 +132,7 @@
 ## 🏆 Achievements:
 - **Finalist**, Smart India Hackathon 2024  
 - Completed MongoDB Certified Associate Developer Certification  
-- **NPTEL Certifications**: 5x in topics like Python, Data Structures, and more  
+- **NPTEL Certifications**: 6x in topics like Python, Data Structures, and more  
 - **CVM Hackathon Participant**: Developed a scholarship portal  
 - **HackerRank Certifications**: SQL, Java  
 
