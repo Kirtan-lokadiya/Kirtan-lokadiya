@@ -55,30 +55,38 @@
 ### 🛠️ Development & Design
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 - ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
-- ![Figma](https://img.shields.io/badge
+- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 ---
 
 ## 🛠️ Technologies & Projects:
+### 🔹 **Hotstar Clone**
+- Built an OTT platform using the **MERN stack** with secure **JWT-based user authentication**.  
+- Features real-time search and interaction capabilities.
+
+### 🔹 **E-Commerce Platform**
+- Developed a responsive, scalable platform with geolocation-based product display.  
+- Integrated payment gateway and chat support using **Socket.io** during my internship at SUVIT Infotech.  
+  
+### 🔹 **VSS – Visual Social System**
+- Built a professional networking platform using **Next.js**, **React**, and **Tailwind CSS** with modern UI/UX.  
+- Implemented **real-time messaging**, **interactive whiteboard collaboration**, and **fundraising campaigns**.  
+- Added **JWT-based authentication**, **email verification**, and **encrypted notes system** with offline access.  
+- Designed **network visualization graphs**, **private search**, and **profile management** with education/work history.  
+- Secured with **input validation**, **JWT token validation**, and deployed using **Docker**, **AWS cloud services**, and **environment-based configs**.
+
 ### 🔹 **Fake News Detection System**
 - Used **XGBoost** to detect fake news with 95.43% accuracy.  
 - Integrated a UI for result presentation and optimized model with hyperparameter tuning.  
 
-### 🔹 **Hotstar Clone**
-- Built an OTT platform using the **MERN stack** with secure **JWT-based user authentication**.  
-- Features real-time search and interaction capabilities.
 
 ### 🔹 **Chatbot with Google Cloud & ChatGPT**
 - Used **Google Cloud Functions** and **Dialogflow** as the backend service.  
 - Integrated **ChatGPT API** to provide intelligent, context-aware responses.  
 - Gained experience in **cloud deployment**, **API integration**, and **serverless architecture**.  
 - Implemented a chatbot by following [this tutorial](https://youtu.be/bIV__oseJW8?si=mj02IK28DAB8OjmR).  
-
-
-### 🔹 **E-Commerce Platform**
-- Developed a responsive, scalable platform with geolocation-based product display.  
-- Integrated payment gateway and chat support using **Socket.io** during my internship at SUVIT Infotech.  
 
 ### 🔹 **News Recommendation System**
 - Designed a machine learning-based platform to enhance user relevance in news articles.  
@@ -96,12 +104,6 @@
 - Containerized with **Docker** and set up **CI/CD pipelines using Jenkins**.  
 - Live Demo: [RouteOptima](https://routeoptima.onrender.com)  
 
-### 🔹 **VSS – Visual Social System**
-- Built a professional networking platform using **Next.js**, **React**, and **Tailwind CSS** with modern UI/UX.  
-- Implemented **real-time messaging**, **interactive whiteboard collaboration**, and **fundraising campaigns**.  
-- Added **JWT-based authentication**, **email verification**, and **encrypted notes system** with offline access.  
-- Designed **network visualization graphs**, **private search**, and **profile management** with education/work history.  
-- Secured with **input validation**, **JWT token validation**, and deployed using **Docker**, **AWS cloud services**, and **environment-based configs**.
 
 ### 🔹 **Cash Flow Management App**
 - Built a **real-world client application** in **Flutter** for personal and business cash flow management with full cross-platform support.  
