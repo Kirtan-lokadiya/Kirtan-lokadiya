@@ -55,6 +55,19 @@
 - Designed a machine learning-based platform to enhance user relevance in news articles.  
 - Applied this in **Charusat Hackathon**.
 
+### 🔹 **RouteOptima – Smart Route Optimization System**
+- Developed a delivery route planner using **Flask**, **Pandas**, and **Folium** for interactive route visualization.  
+- Implemented real-time optimization with **vehicle capacity**, **distance constraints**, and **timeslot scheduling**.  
+- Designed support for multiple vehicle types: **3-wheelers, EVs, and 4-wheelers** with custom capacity/radius limits.  
+- Added **authentication system**: Google Sign-In and mobile number OTP verification using **Twilio**.  
+- Secured the app with a **self-signed SSL certificate** for HTTPS.  
+- Integrated **MongoDB backup & recovery** strategy for reliability.  
+- Hosted live on **Render** and **Railway** (as a wrapper service).  
+- Implemented **SSO (Single Sign-On)** and strong **input validation**.  
+- Containerized with **Docker** and set up **CI/CD pipelines using Jenkins**.  
+- Live Demo: [RouteOptima](https://routeoptima.onrender.com)  
+  
+
 ---
 
 ## 📊 GitHub Stats:
