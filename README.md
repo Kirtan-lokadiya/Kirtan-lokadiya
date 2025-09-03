@@ -72,7 +72,7 @@
 - Implemented **real-time messaging**, **interactive whiteboard collaboration**, and **fundraising campaigns**.  
 - Added **JWT-based authentication**, **email verification**, and **encrypted notes system** with offline access.  
 - Designed **network visualization graphs**, **private search**, and **profile management** with education/work history.  
-- Secured with **input validation**, **JWT token validation**, and deployed with **Docker** & **environment-based configs**.  
+- Secured with **input validation**, **JWT token validation**, and deployed using **Docker**, **AWS cloud services**, and **environment-based configs**.  
   
 
 ---
