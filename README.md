@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Kirtan Lokadiya**!  
-🎓 3rd-year IT student at CHARUSAT (Charotar University of Science & Technology).  
+🎓 4th-year IT student at CHARUSAT (Charotar University of Science & Technology).  
 🌟 Passionate about full-stack development, machine learning, and solving real-world problems through technology.  
 🚀 Actively building scalable web applications and participating in hackathons to enhance my skills.  
 📊 Constantly learning and implementing to drive measurable improvements in system performance and user experience.  
