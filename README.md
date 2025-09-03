@@ -38,7 +38,14 @@
 
 ### 🔹 **Hotstar Clone**
 - Built an OTT platform using the **MERN stack** with secure **JWT-based user authentication**.  
-- Features real-time search and interaction capabilities.  
+- Features real-time search and interaction capabilities.
+
+### 🔹 **Chatbot with Google Cloud & ChatGPT**
+- Used **Google Cloud Functions** and **Dialogflow** as the backend service.  
+- Integrated **ChatGPT API** to provide intelligent, context-aware responses.  
+- Gained experience in **cloud deployment**, **API integration**, and **serverless architecture**.  
+- Implemented a chatbot by following [this tutorial](https://youtu.be/bIV__oseJW8?si=mj02IK28DAB8OjmR).  
+
 
 ### 🔹 **E-Commerce Platform**
 - Developed a responsive, scalable platform with geolocation-based product display.  
